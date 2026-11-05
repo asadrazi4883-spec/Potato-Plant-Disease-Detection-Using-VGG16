@@ -168,6 +168,25 @@ The project generates the following outputs:
 - Training and validation accuracy graph.
 - Training and validation loss graph.
 
+📸 Project Screenshots
+
+
+1. Disease Prediction Output
+
+![Disease Prediction](screenshots/01_prediction.jpeg)
+
+2. Prediction Probability Graph
+
+![Prediction Probabilities](screenshots/02_prediction_probabilities.jpeg)
+
+3. Training and Validation Accuracy
+
+![Accuracy Graph](screenshots/03_accuracy_graph.jpeg)
+
+4. Training and Validation Loss
+
+![Loss Graph](screenshots/04_loss_graph.jpeg)
+
 🔮 Future Improvements
 
 - Expand the dataset with more diverse potato leaf images.
